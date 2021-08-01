@@ -1,5 +1,7 @@
 **Monohardi Pilot High School** (`মনোহরদি পাইলট হাই স্কুল`) was established in 1948. The school enrolls students from class (grade) 6 to 10. 
 
+![MPHS](https://raw.githubusercontent.com/samazgor/mphs/master/MPHS-Latest.jpg)
+
 Monohardi Upazila is an area situated in Narsingdi District of Dhaka Division.
 
 ## Quick View
