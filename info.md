@@ -32,7 +32,11 @@ Monohardi Upazila is an area situated in Narsingdi District of Dhaka Division.
 * মো: লুৎফর রহমান (Assistant Teacher)
 
 ---
+### Old Campus 
+![MPHS Old](https://raw.githubusercontent.com/samazgor/mphs/master/MPHS-Old.jpg)
 
+### First Campus 
+![First Campus](https://raw.githubusercontent.com/samazgor/mphs/master/MPHS-First.jpg)
 
 ```sh
 To Be Continued...
